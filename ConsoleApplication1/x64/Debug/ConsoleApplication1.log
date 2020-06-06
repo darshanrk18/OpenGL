@@ -1,0 +1,51 @@
+﻿  ConsoleApplication1.cpp
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(74): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(456): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(458): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(460): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(512): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [11]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(512): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(523): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [13]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(523): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(534): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [9]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(534): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(556): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(567): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(578): error C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(574): note: see declaration of 'strrev'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(624): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [25]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(624): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(657): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [8]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(657): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(668): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [9]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(668): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(628): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(634): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(637): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(710): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [5]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(710): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(719): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [20]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(719): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(720): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [22]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(720): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(721): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [23]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(721): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(722): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [22]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(722): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(723): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [32]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(723): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(725): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [79]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(725): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(726): error C2664: 'void displayRasterText(float,float,float,char *)': cannot convert argument 4 from 'const char [41]' to 'char *'
+  f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(726): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(833): warning C4326: return type of 'main' should be 'int' instead of 'void'
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\consoleapplication1.cpp(835): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'

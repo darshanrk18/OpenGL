@@ -1,0 +1,22 @@
+﻿  source.cpp
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\source.cpp(444): warning C4018: '<': signed/unsigned mismatch
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\source.cpp(449): warning C4018: '<': signed/unsigned mismatch
+f:\gl_proj\opengl\consoleapplication1\consoleapplication1\source.cpp(454): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+F:\gl_proj\Opengl\ConsoleApplication1\Release\ConsoleApplication1.exe : fatal error LNK1281: Unable to generate SAFESEH image.
